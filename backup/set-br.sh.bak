@@ -29,7 +29,7 @@ clear
 echo "Checking VPS"
 clear
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/myridwan/sc/ipuk/backup"
+akbarvpn="raw.githubusercontent.com/Rendezvous07/sc/ipuk/backup"
 
 apt install rclone -y
 printf "q\n" | rclone config

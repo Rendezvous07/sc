@@ -51,4 +51,4 @@ echo > /var/log/syslog
 echo > /var/log/btmp
 echo > /var/log/messages
 echo > /var/log/debug
-echo -e "${PURPLE}By RIDWAN - STORE"
+echo -e "${PURPLE}By Rendez"

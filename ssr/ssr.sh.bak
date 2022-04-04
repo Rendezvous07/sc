@@ -30,7 +30,7 @@ clear
 echo "Checking VPS"
 clear
 # Link Hosting Kalian
-akbarvpn="raw.githubusercontent.com/myridwan/sc/ipuk/ssr"
+akbarvpn="raw.githubusercontent.com/Rendezvous07/sc/ipuk/ssr"
 
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH

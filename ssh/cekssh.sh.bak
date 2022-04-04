@@ -90,6 +90,6 @@ echo "----------------------------------------------";
         cat /tmp/vpn-login-udp.txt
 fi
 echo "----------------------------------------------";
-echo "Script By RIDWAN - STORE"
+echo "Script By Rendez"
 echo "";
 

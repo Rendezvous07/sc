@@ -19,25 +19,25 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Link Hosting Kalian Untuk Ssh Vpn
-akbarvpn="raw.githubusercontent.com/myridwan/sc/ipuk/ssh"
+akbarvpn="raw.githubusercontent.com/Rendezvous07/sc/ipuk/ssh"
 # Link Hosting Kalian Untuk Sstp
-akbarvpnn="raw.githubusercontent.com/myridwan/sc/ipuk/sstp"
+akbarvpnn="raw.githubusercontent.com/Rendezvous07/sc/ipuk/sstp"
 # Link Hosting Kalian Untuk Ssr
-akbarvpnnn="raw.githubusercontent.com/myridwan/sc/ipuk/ssr"
+akbarvpnnn="raw.githubusercontent.com/Rendezvous07/sc/ipuk/ssr"
 # Link Hosting Kalian Untuk Shadowsocks
-akbarvpnnnn="raw.githubusercontent.com/myridwan/sc/ipuk/shadowsocks"
+akbarvpnnnn="raw.githubusercontent.com/Rendezvous07/sc/ipuk/shadowsocks"
 # Link Hosting Kalian Untuk Wireguard
-akbarvpnnnnn="raw.githubusercontent.com/myridwan/sc/ipuk/wireguard"
+akbarvpnnnnn="raw.githubusercontent.com/Rendezvous07/sc/ipuk/wireguard"
 # Link Hosting Kalian Untuk Xray
-akbarvpnnnnnn="raw.githubusercontent.com/myridwan/sc/ipuk/xray"
+akbarvpnnnnnn="raw.githubusercontent.com/Rendezvous07/sc/ipuk/xray"
 # Link Hosting Kalian Untuk Ipsec
-akbarvpnnnnnnn="raw.githubusercontent.com/myridwan/sc/ipuk/ipsec"
+akbarvpnnnnnnn="raw.githubusercontent.com/Rendezvous07/sc/ipuk/ipsec"
 # Link Hosting Kalian Untuk Backup
-akbarvpnnnnnnnn="raw.githubusercontent.com/myridwan/sc/ipuk/backup"
+akbarvpnnnnnnnn="raw.githubusercontent.com/Rendezvous07/sc/ipuk/backup"
 # Link Hosting Kalian Untuk Websocket
-akbarvpnnnnnnnnn="raw.githubusercontent.com/myridwan/sc/ipuk/websocket"
+akbarvpnnnnnnnnn="raw.githubusercontent.com/Rendezvous07/sc/ipuk/websocket"
 # Link Hosting Kalian Untuk Ohp
-akbarvpnnnnnnnnnn="raw.githubusercontent.com/myridwan/sc/ipuk/ohp"
+akbarvpnnnnnnnnnn="raw.githubusercontent.com/Rendezvous07/sc/ipuk/ohp"
 
 # Getting
 MYIP=$(wget -qO- icanhazip.com);
