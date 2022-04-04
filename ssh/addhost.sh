@@ -12,7 +12,7 @@ LIGHT='\033[0;37m'
 # ==========================================
 # Getting
 MYIP=$(wget -qO- ipinfo.io/ip);
-IZIN=$(wget -qO- icanhazip.com)
+IZIN=$(wget -qO- ipinfo.io/ip)
 echo "Memeriksa Hak Akses VPS..."
 if [ $MYIP = $IZIN ]; then
 echo -e "${NC}${GREEN}Permission Accepted...${NC}"
